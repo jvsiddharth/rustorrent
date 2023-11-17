@@ -35,6 +35,7 @@ This BitTorrent client is built in Rust and offers the following functionalities
 **Usage Flow:**
 
 - Upon execution, the client prompts the user to select the type of torrent info to provide (torrent file, magnet URL, or info hash). Based on the input, the client then fetches the tracker URL and proceeds with fetching peers and initiating the download process.
+(for now it will give several errors)
 
 **Contribution and Development**
 This project is a work in progress. Contributions are welcome! If you're interested in contributing to Rustorrent, feel free to fork the repository, make changes, and submit pull requests. Below are some areas that require attention:
