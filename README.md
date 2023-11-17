@@ -22,7 +22,7 @@ This BitTorrent client is built in Rust and offers the following functionalities
   
     - Clone the repository:
       
-           git clone https://github.com/your-username/rustorrent.git
+           git clone https://github.com/jvsiddharth/rustorrent.git
 
     - Navigate to the project directory:
 
