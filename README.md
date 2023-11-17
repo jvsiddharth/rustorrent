@@ -18,24 +18,25 @@ This BitTorrent client is built in Rust and offers the following functionalities
 **Usage**
 *Building and Running the Client:*
 
-- To build and run the Rustorrent BitTorrent client:
+  - To build and run the Rustorrent BitTorrent client:
+  
+    - Clone the repository:
 
-- Clone the repository:
+        *bash
+        Copy code
+        git clone https://github.com/your-username/rustorrent.git*
 
-*bash
-Copy code
-git clone https://github.com/your-username/rustorrent.git*
+  - Navigate to the project directory:
 
-- Navigate to the project directory:
+        *bash
+        Copy code
+        cd rustorrent*
 
-*bash
-Copy code
-cd rustorrent
-Compile and run the project:*
+  - Compile and run the project:*
 
-*bash
-Copy code
-cargo run*
+        *bash
+        Copy code
+        cargo run*
 
 **Usage Flow:**
 
