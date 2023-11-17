@@ -20,27 +20,16 @@ This BitTorrent client is built in Rust and offers the following functionalities
 
   - To build and run the Rustorrent BitTorrent client:
   
-    - Clone the repository:
+    - Clone the repository
 
-        *bash
-        Copy code
-        git clone https://github.com/your-username/rustorrent.git*
+    - Navigate to the project directory
 
-  - Navigate to the project directory:
+    - Compile and run the project
 
-        *bash
-        Copy code
-        cd rustorrent*
-
-  - Compile and run the project:*
-
-        *bash
-        Copy code
-        cargo run*
 
 **Usage Flow:**
 
-Upon execution, the client prompts the user to select the type of torrent info to provide (torrent file, magnet URL, or info hash). Based on the input, the client then fetches the tracker URL and proceeds with fetching peers and initiating the download process.
+- Upon execution, the client prompts the user to select the type of torrent info to provide (torrent file, magnet URL, or info hash). Based on the input, the client then fetches the tracker URL and proceeds with fetching peers and initiating the download process.
 
 **Contribution and Development**
 This project is a work in progress. Contributions are welcome! If you're interested in contributing to Rustorrent, feel free to fork the repository, make changes, and submit pull requests. Below are some areas that require attention:
