@@ -7,9 +7,9 @@ This BitTorrent client is built in Rust and offers the following functionalities
 
 - **Torrent Info Input:** Allows users to provide information via three methods:
 
-- Torrent file
-- Magnet URL
-- Info Hash
+  - Torrent file
+  - Magnet URL
+  - Info Hash
   
 - **Fetching Tracker URL:** Currently, the logic for fetching the tracker URL is not implemented. This functionality is a work in progress.
 
