@@ -1,4 +1,5 @@
 **Rustorrent**
+**WONT WORK, WORK IN PROGRESS**
 -
 Rustorrent is a work-in-progress BitTorrent client written in Rust. This project aims to implement a functional BitTorrent client with various features, utilizing Rust's concurrency and asynchronous capabilities.
 
