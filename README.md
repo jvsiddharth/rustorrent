@@ -12,7 +12,7 @@ This BitTorrent client is built in Rust and offers the following functionalities
   - Magnet URL
   - Info Hash
   
-- **Fetching Tracker URL:** Currently, the logic for fetching the tracker URL is not implemented. This functionality is a work in progress.
+- **Fetching Tracker URL:** Currently, the logic for fetching the tracker URL is not implemented.
 
 - **Peer Interaction:** The client fetches peers from the tracker URL and initiates downloading pieces from these peers using the BitTorrent protocol.
 
